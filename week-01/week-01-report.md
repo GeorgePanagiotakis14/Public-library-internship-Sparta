@@ -59,7 +59,9 @@ open file, select: full, steps: next, execute in order to be installed products
 create your account and finish the installation
 
 
-## Apache
+## Apache, without XAMPP and WAMP
+
+Steps for web server:
 
 site: https://www.apachelounge.com/download/ and install the appropriate one
 
