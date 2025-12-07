@@ -1,3 +1,98 @@
+## Week 1 – Creating a Simple Web Server Using Python and PHP
+
+The first week focused on creating a basic web server that displays predefined messages on a web page, implemented using both Python and PHP. Below are the steps followed to install the required programming environments and set up the Python version of the project.
+
+### 1️⃣ Python Setup
+#### 1. Create the Project Folder
+
+Create a folder named **Project_Folder** in the path:
+
+C:\
+
+#### 2. Create the Python File (app.py)
+
+Using Notepad, create a new file named **app.py** and paste the Python code shown in the folder **week-01** of this repository.
+Save the file inside **Project_Folder**, making sure to select **"All Files"** before saving.
+
+#### 3. Create the Templates Folder and HTML File
+
+Inside **Project_Folder**, create a new folder named templates.
+Open Notepad again and create a file named index.html.
+Paste the corresponding HTML code (also available in the week-01 folder), select "All Files", and save it inside the templates folder.
+
+4. Install Flask
+
+Open Command Prompt and install Flask by running:
+
+pip install flask
+
+
+Then set the Flask application environment variable:
+
+set FLASK_APP=app.py
+
+5. Install Python Extension in Visual Studio Code
+
+If Visual Studio Code is not installed, download and install it.
+Inside VS Code, go to Extensions (left sidebar) and install the Python extension.
+
+6. Run the Application
+
+Open the app.py file in VS Code and run one of the following commands:
+
+Option A: Through Visual Studio Code terminal
+python app.py
+
+Option B: Through Command Prompt
+
+Navigate to the project directory:
+
+cd C:\Project_Folder
+
+
+Then run:
+
+python app.py
+
+7. Access the Web Page
+
+If everything is set up correctly, the terminal will display a line similar to:
+
+Running on http://127.0.0.1:5000/
+
+
+Open that URL in your browser, and the page will display the messages:
+
+Hello!
+
+Welcome!
+
+This is a message.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Η πρώτη εβδομάδα ξεκίνησε με στόχο την δημιουργία ενός web server ο οποίος θα εμφανίζει συγκεκριμένα μηνύματα σε web pages και θα τρέχει σε γλώσσες python και php. Αρχικά, τα βήματα για την εγκατάσταση των γλωσσών προγραμματισμού python & php, είναι τα παρακάτω:
 
 
@@ -24,6 +119,7 @@ https://windows.php.net/download/  install php
 
 extension php on visual code
 
+php -S localhost:8080
 
 στο cmd -> cd C:\... ekei pou einai o fakelos 
 
