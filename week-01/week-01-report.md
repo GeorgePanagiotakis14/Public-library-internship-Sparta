@@ -94,12 +94,12 @@ Go to the official PHP for Windows download page:
 
 Download the **Thread Safe ZIP package** for your system and extract the files into a new folder named **php** in:
 
-`C:\`
+```C:\```
 
 
 After extraction, your folder should look like:
 
-`C:\php\`
+```C:\php\```
 
 ### 2. Create the PHP File (index.php)
 
@@ -176,7 +176,7 @@ The following sections describe the installation steps for MySQL and Apache, as 
 
 - Open the downloaded file and choose:
 
-`Full`
+```Full```
 
 
 This installs:
@@ -231,7 +231,7 @@ When the process finishes, MySQL Workbench will be available for use.
 
 - Create a new folder in the root of your C: drive:
 
-`C:\Apache24`
+```C:\Apache24```
 
 
 - Extract all downloaded files into this folder so your structure becomes:
@@ -247,7 +247,7 @@ C:\Apache24\htdocs
 
 - Navigate to:
 
-`C:\Apache24\conf`
+```C:\Apache24\conf```
 
 
 - Open the file:
