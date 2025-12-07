@@ -53,7 +53,7 @@ Then run:
 
 *python app.py*
 
-7. Access the Web Page
+#### 7. Access the Web Page
 
 If everything is set up correctly, the terminal will display a line similar to:
 
