@@ -200,7 +200,7 @@ When the process finishes, MySQL Workbench will be available for use.
 
 
 
-## Apache, without XAMPP and WAMP
+## 4️⃣ Apache, without XAMPP and WAMP
 
 Steps for web server: on site: https://www.apachelounge.com/download/ and install the appropriate one
 
