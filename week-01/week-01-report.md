@@ -1,6 +1,7 @@
 # Week 1 – Overview: Development Stack
 
-During the first week of the internship, we set up the basic tools to create simple web applications. The goal was to build two small web servers (Python and PHP) and connect them with a database and a web server for a complete environment.
+During the first week of the internship, we set up the basic tools to create simple web applications. 
+The goal was to build two small web servers (Python and PHP) and connect them with a MySQL database and Apache HTTP Server to create a complete development environment.
 
 - **Python (Flask)**: Lightweight server for displaying messages and handling HTML templates (```localhost:5000```).
 
@@ -139,7 +140,7 @@ After setting up the basic web servers using Python and PHP, the next step was t
 
 Additionally, the setup process included the installation and configuration of the Apache HTTP Server, which provides a stable, production-level environment for serving PHP applications. Apache enables the web server to deliver PHP pages reliably and is commonly used in combination with MySQL to create full-stack web applications.
 
-The following sections describe the installation steps for MySQL and Apache, as well as how they integrate with the overall project architecture.
+The following sections describe the installation steps for **MySQL** and **Apache**, as well as how they integrate with the overall project architecture.
 
 
 ## 3️⃣ MySQL Database (MySQL Server)
