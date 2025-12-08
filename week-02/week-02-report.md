@@ -57,3 +57,16 @@ httpd -k restart
 
 
 ανοιξε το http://localhost/phpmyadmin 
+
+αν ειναι οκ θα δεις την φορμα του login για το phpmyadmin όπου συμπληρωνεις username and password. 
+
+
+## δημιουργία βασης δεδομένων 
+new αριστερη στηλη 
+create database 
+δινεις όνομα και utf8mb4_general_ci and create 
+
+μστατροπη του excel se csv και μετα import στην βαση δεδομένων. 
+
+
+(create table  δημιουργείς τις στηλες;)
